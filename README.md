@@ -1,14 +1,26 @@
-# py
-Repository to store sample Python programs.
+![](ui_snapshot.jpg)
 
-This repository is meant for beginners to assist them in their learning of Python. The repository covers a wide range of algorithms and other programs, and would prove immensely helpful for everybody interested in Python programming.
+In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
+1) Maria Sharapova
+2) Serena Williams
+3) Virat Kohli
+4) Roger Federer
+5) Lionel Messi
 
-If this is your first time coding in Python, I would love to suggest you begin from the [Basics](https://github.com/codebasics/py/tree/master/Basics). They are simple to understand and hopefully will prove fun to you.
+Here is the folder structure,
+* UI : This contains ui website code 
+* server: Python flask server
+* model: Contains python notebook for model building
+* google_image_scrapping: code to scrap google for images
+* images_dataset: Dataset used for our model training
 
-You can also pay a visit to my very own [Youtube channel](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ).
+Technologies used in this project,
+1. Python
+2. Numpy and OpenCV for data cleaning
+3. Matplotlib & Seaborn for data visualization
+4. Sklearn for model building
+5. Jupyter notebook, visual studio code and pycharm as IDE
+6. Python flask for http server
+7. HTML/CSS/Javascript for UI
 
-Contributions to the repository are welcome.
 
-[![CodeBasics](https://yt3.ggpht.com/ytc/AAUvwnihwx4a5idwBTE5JFpXHb-ykyh-i1gXtFiGJYV1=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ).
-
-#### Happy coding!
